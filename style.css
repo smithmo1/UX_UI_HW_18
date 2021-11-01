@@ -42,20 +42,17 @@
 <!-- My UX Skills section coded using CSS flex -->
 .flex-container {
     display: flex;
+    width: 33%
 }
 
-div {
-    width: 33%;
-}
-
-div {
+margin {
     margin-top: 33px;
     margin-bottom: 33px;
     margin-right: 33px;
     margin-left: 33px;
 }
 
-div {
+padding {
     padding-top: 33px;
     padding-right: 33px;
     padding-bottom: 33px;
