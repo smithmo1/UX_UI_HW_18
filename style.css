@@ -42,7 +42,7 @@
 <!-- My UX Skills section coded using CSS flex -->
 .flex-container {
     display: flex;
-    width: 33%
+    width: 33%;
 }
 
 margin {
